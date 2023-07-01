@@ -1,14 +1,3 @@
-# Expo Router Example
+# ShughululNas Test
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+This is a test project about the Job Searching app that I am currently developing, this is just a test dummy to practice the skills I require for the real app.
